@@ -1,0 +1,20 @@
+list_mode: 
+  default: true
+  description: "Display groups as list rather than boxes"
+about_groups_text: 
+  default: "Access Groups (aka Security Groups) listed on this page each grant access to one or more forums."
+  description: "Main text"
+details_para1: 
+  default: "This page shows all of the forum groups which you can join or have already joined. 
+    To join a forum group click on the green Join button, then the forum (or forums) will 
+    appear on the home page under the relevant category."
+  description: "Details text: leave blank to hide details"
+details_para2: 
+  default: "To Leave a forum click the Leave button for a group. This will remove you from all forums for that group 
+    unless you are a member of another group which grants access to the forum. You need to leave all groups with access to a forum to remove it from your view. You can simply mute a forum by clicking on the grey circle icon at the top right of the forum home page."
+  description: "second details paragraph"
+details_para3: 
+  default: "Many Forums are private and their groups are not listed here unless you have joined them.
+    To find private groups join the appropriate public Reception group listed here, and then you should find details
+    of the associated private forums and how to join them in the reception forum"
+  description: "Details third paragraph"
